@@ -44,7 +44,6 @@ Built as part of a Master's thesis at the Prague University of Economics and Bus
 **1. Clone the repository**
 ```bash
 git clone https://github.com/soleka00/AI_Agent
-cd your-repo-name
 ```
 
 **2. Install dependencies**
